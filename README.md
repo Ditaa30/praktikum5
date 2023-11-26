@@ -25,3 +25,27 @@
 5. Mencari data, dengan cara memasukan NIM yang akan di cari.
 
 6. Else Blok kode dibawah else akan dijalankan jika semua kondisi dalam if dan elif sebelumnya bernilai False.
+
+# LATIHAN 5
+
+![gambar](latihan5(1).png)
+
+![gambar](latihan5(2).png)
+
+![gambar](hasillatihan5.png)
+
+# PRAKTIKUM 5
+
+![gambar](praktikum5(1).png)
+
+![gambar](praktikum5(2).png)
+
+![gambar](praktikum5(3).png)
+
+![gambar](hasilpraktikum5(1).png)
+
+![gambar](hasilpraktikum5(2).png)
+
+# FLOWCHART
+
+![gambar](FLOWCHART(2).jpeg)
